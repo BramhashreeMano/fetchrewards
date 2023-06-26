@@ -37,9 +37,20 @@ In the terminal
         Input:  No input is passed 
         Output: A JSON object containing the number of points awarded
 
-Final Comments: The application works, generating the desired output for all examples.
+### Final Comments: The application works, generating the desired output for all examples.
                 I have used try-catch blocks to ensure app reliability and have coded in such a way 
                 even if parts of the Receipt JSON are missing, the app will still run successfully.
+
+## Screenshots of Output
+
+### ID_01 generated for Receipt 01
+![Alt text](Id_01.png) 
+### Points linked to ID_01
+![Alt text](Points_01.png) 
+### ID 02 generated for Receipt 02
+![Alt text](Id_02.png) 
+### Points linked to ID_02
+![Alt text](Points_02.png)
 
 
 
