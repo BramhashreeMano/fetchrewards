@@ -1,4 +1,5 @@
 # Coding Assignment
+## Author: Bramhashree Manoharan
 
 I have implemented the coding exercise using Python, Flask and Flask-RESTful.
 
@@ -17,7 +18,7 @@ In the terminal
 4) Once the server is running, the application can be tested in 2 ways:
 
     i)  Run the test cases using the command: python -m unittest test.py
-    
+
         (which tests the examples provided in the assignment)
 
     ii) Use Postman to hit the server:
