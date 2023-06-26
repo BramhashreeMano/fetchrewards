@@ -17,9 +17,11 @@ In the terminal
 4) Once the server is running, the application can be tested in 2 ways:
 
     i)  Run the test cases using the command: python -m unittest test.py
+    
         (which tests the examples provided in the assignment)
 
     ii) Use Postman to hit the server:
+
         a) Endpoint: Process Receipts
         POST : http://localhost:8080/receipts/process 
         
